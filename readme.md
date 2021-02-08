@@ -8,7 +8,7 @@
 Primeiro passo, clonar o projeto:
 ``` bash
 # Clonar
-git clone https://github.com/carlosfgti/laravel-com-vue-exemplo.git
+git clone https://github.com/guisantossa/laravel-com-vue-exemplo.git
 
 # Acessar
 cd laravel-com-vue-exemplo
